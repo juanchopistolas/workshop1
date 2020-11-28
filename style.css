@@ -82,3 +82,81 @@ body{
 .main-menu__link:hover{
     text-decoration: underline;
 }
+
+
+.punto-3{
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+}
+
+.section-text-punto{
+    margin: 0;
+    color: rgb(168, 21, 21);
+    background: rgb(255, 255, 255);  
+    text-align: center;
+    font-family: Lucida Bright,Georgia,serif, oblique; 
+    font-size:large;
+}
+
+.news-section > div:first-child{
+    margin-bottom: 5px; 
+}
+
+.news{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    height: 280px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+
+.news > div:first-child{
+    margin: 0 6px;
+}
+
+.news-datos{
+    width: 49%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex; 
+}
+
+.news-imagen{
+    margin: 10px 0;
+    padding: 0 30px;
+    color: rgb(0, 0, 0);
+}
+
+.news-texto{
+    color: rgba(20, 20, 20, 0.644);
+    text-align: justify;
+    width: 49%;
+    padding: 1em 0;
+
+}
+.news-texto > span.news-url{
+    text-align: right;
+}
+
+.news-titulo{
+    color: #000000;
+    font-family:"Times New Roman", Times, serif;
+}
+
+.noticia{
+    font-style: italic;
+}
+
+.url-noticia{
+    font-size: 10px;
+    float: right;
+    color: #ff1818;
+}
+
+.url-noticia{
+    color: red;
+}
+/*fin punto3*/
