@@ -161,7 +161,7 @@ body{
 }
 
 .footer{
-    height: 200px;
+    height: 400px;
     background-color: gray;
     bottom: 0px;
     /* position: fixed; */
@@ -169,8 +169,8 @@ body{
 }
 
 .section-text{
-    margin: 140px;
-    padding-top: 30px;
+    margin: 0px;
+    padding-top: 200px;
     color: #ffffff;
     background: gray;
     font-weight: bold;
