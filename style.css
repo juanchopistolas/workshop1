@@ -159,4 +159,22 @@ body{
 .url-noticia{
     color: red;
 }
+
+.footer{
+    height: 200px;
+    background-color: gray;
+    bottom: 0px;
+    /* position: fixed; */
+    /* width: 1200px; */
+}
+
+.section-text{
+    margin: 140px;
+    padding-top: 30px;
+    color: #ffffff;
+    background: gray;
+    font-weight: bold;
+
+    text-align: center;
+}
 /*fin punto3*/
