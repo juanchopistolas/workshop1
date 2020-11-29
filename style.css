@@ -121,7 +121,7 @@ body{
 
 
 .punto-3{
-    height: 500px;
+    height: 600px;
     background-color: rgb(255, 255, 255);
 }
 
@@ -197,16 +197,17 @@ body{
 }
 
 .footer{
-    height: 400px;
+    height: 220px;
     background-color: gray;
     bottom: 0px;
+    margin-top: 100px;
     /* position: fixed; */
     /* width: 1200px; */
 }
 
 .section-text{
     margin: 0px;
-    padding-top: 200px;
+    padding-top: 50px;
     color: #ffffff;
     background: gray;
     font-weight: bold;
@@ -214,3 +215,31 @@ body{
     text-align: center;
 }
 /*fin punto3*/
+.teams-datos{
+    width: 267px;
+}
+.teams-name {
+    display: flow-root;
+    width: 267px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.teams-texto{
+    color: rgba(20, 20, 20, 0.644);
+    text-align: justify;
+    padding: 1em 0;
+    padding-top: 0px;
+}
+.teams-imagen{
+    text-align: center;
+    width: 267px;
+    margin: 10px 0;
+    color: rgb(0, 0, 0);
+}
+.teams-list{
+    padding-left: 0px;
+    text-align: center;
+}
+.teams-list0{
+    list-style: none;
+}
