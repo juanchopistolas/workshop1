@@ -38,12 +38,10 @@ body{
 
 .container-imagen{
     height: 350px;
-    /* margin-bottom: 20px;  */
 }
 .container__imagen-fondo{
     height: 350px;
     width: 1400px;
-    /* margin-bottom: 20px;  */
 }
 
 .nav-list{
@@ -201,8 +199,6 @@ body{
     background-color: gray;
     bottom: 0px;
     margin-top: 100px;
-    /* position: fixed; */
-    /* width: 1200px; */
 }
 
 .section-text{
